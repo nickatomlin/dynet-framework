@@ -1,5 +1,5 @@
 python $SEQ2SEQROOT/main.py \
-    --run runs/example/ \
+    --run runs/examples/ \
     --model LSTMLanguageModel \
     --train data/lm/train \
     --dev data/lm/valid \
